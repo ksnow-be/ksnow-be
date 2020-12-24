@@ -26,16 +26,15 @@
 ### Tech Stack
 
 <pre>
-<b>></b> man reysand
-  <b>OS:    </b> Arch Linux
-  <b>Shell: </b> Zsh
-  <b>VCS:   </b> Git
-  <b>Editor:</b> Vim
-  <b>Stack: </b> C, Linux, Java, Docker
+<b>></b> man ksnow-be
+  <b>Main language:        </b> Java11(Spring)
+  <b>Additional languages: </b> C, Javascript(Vue.js), Python(Flask)
+  <b>Database:             </b> Postgres, MongoDB, ClickHouse
+  <b>DevOps:               </b> Docker, Jenkins, OpenShift
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 </pre>
 ### GitHub Analytics
 <p align="left">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksnow-be&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksnow-be&theme=react&hide_border=true&layout=compact" />
+  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksnow-be&theme=react&hide_border=true&layout=compact" />
 </p>
