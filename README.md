@@ -35,6 +35,6 @@
 </pre>
 ### GitHub Analytics
 <p align="left">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksnow-be&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&hide=prs,issues" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksnow-be&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksnow-be&theme=react&hide_border=true&layout=compact" />
 </p>
