@@ -39,8 +39,3 @@
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksnow-be&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksnow-be&theme=react&hide_border=true&layout=compact" />
 </p>
-
-### Non-shamed repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ksnow-be&repo=push_swap_checker)](https://github.com/ksnow-be/push_swap_checker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ksnow-be&repo=Yandex.Api-MySqli)](https://github.com/ksnow-be/Yandex.Api-MySqli)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mateorus&repo=hackathon)](https://github.com/Mateorus/hackathon)
