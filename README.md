@@ -15,8 +15,8 @@
 <a href="https://steamcommunity.com/id/yukisyn">
   <img align="left" alt="Reysand's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
--->
 <br/>
+-->
 
 ### About Me
 - :telescope: I'm currently working on [ft_ls](https://github.com/reysand/ft_ls)
