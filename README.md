@@ -1,4 +1,4 @@
-## Hi there, I'm Andrey! :chicken:
+## Hi there, I'm Alex! :chicken:
 <!--
 <a href="https://github.com/reysand">
   <img align="left" alt="Reysand's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
@@ -19,9 +19,9 @@
 -->
 
 ### About Me
-- :telescope: I'm currently working on [ft_ls](https://github.com/reysand/ft_ls)
-- :mortar_board: I'm currently studying Computer Science at the [MTUCI](https://mtuci.ru/?lang=en) and at the [School 21](https://21-school.ru).
-- :seedling: I'm currently learning [Computational Thinking with Beginning C Programming](https://www.coursera.org/specializations/computational-thinking-c-programming)
+- :euro:  I'm currently a software engineer of [Sber](https://www.sberbank.com/index).
+- :moyai: Backend, full-stack almost.
+- :seedling: This repo is not my resume and contains only side projects.
 
 ### Tech Stack
 
