@@ -15,11 +15,14 @@
   <img align="left" alt="Reysand's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
 <br/>
+
 ### About Me
 - :telescope: I'm currently working on [ft_ls](https://github.com/reysand/ft_ls)
 - :mortar_board: I'm currently studying Computer Science at the [MTUCI](https://mtuci.ru/?lang=en) and at the [School 21](https://21-school.ru).
 - :seedling: I'm currently learning [Computational Thinking with Beginning C Programming](https://www.coursera.org/specializations/computational-thinking-c-programming)
+
 ### Tech Stack
+
 <pre>
 <b>></b> man reysand
   <b>OS:    </b> Arch Linux
